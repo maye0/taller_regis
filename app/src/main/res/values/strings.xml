@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Taller2</string>
+    <string name="home_title">Bienvenid@ <i>%1$s</i></string>
+    <string name="home_subtitulo">Aqui puedes visualizar toda tu informacion</string>
+    <string name="home_button_usuario">USUARIO</string>
+    <string name="home_button_hobbies">HOBBIES</string>
+    <string name="home_button_logout">VOLVER</string>
+
+    <string name="text_titulo">Formulario de Registro</string>
+    <string name="text_subtitulo">Por favor llenar todos los siguientes datos</string>
+    <string name="nombre_input">Nombre</string>
+    <string name="Apellido_input">Apellido</string>
+    <string name="Tipo_documento_textView">Tipo de Documento</string>
+    <string name="typo_documento_button">TIPO</string>
+    <string name="numero_doc_input">Numero de Documento</string>
+    <string name="Fecha_nacimiento_textView">Fecha de Nacimiento</string>
+    <string name="fecha_button">FECHA</string>
+    <string name="hobbies_textView">Hobbies</string>
+    <string name="hobbies_button">ESCOGER</string>
+    <string name="pass_input">Contraseña</string>
+    <string name="confirm_pass_input">Confirmacion contraseña</string>
+    <string name="reset_button">ELIMINAR</string>
+    <string name="registro_button">REGISTRO</string>
+
+    <string name="frag_hobbies_titulo">Hobbies del usuario</string>
+    <string name="frag_hobbies_subtitulo">Hobbies</string>
+    <string name="frag_hobbies_button">EDITAR HOBBIES</string>
+
+    <string name="frag_user_titulo">INFORMACION DEL USUARIO</string>
+    <string name="frag_user_nombre">Nombre:</string>
+    <string name="frag_user_apellido">Apellido:</string>
+    <string name="frag_user_tipo_document">Tipo de Documento:</string>
+    <string name="frag_user_documento">Documento:</string>
+    <string name="frag_user_fecha">Fecha de Nacimiento:</string>
+    <string name="frag_user_hobbies">Hobbies:</string>
+    <string name="frag_user_pass">Contraseña:</string>
+
+    <string name="content_termi_y_condi"><b>TERMINOS Y CONDICIONES</b>\n\n
+    Nuestro sitio web emplea la información con el fin de proporcionar el mejor servicio posible, particularmente para mantener un registro de usuarios, de pedidos en caso que aplique, y mejorar nuestros productos y servicios.  Es posible que sean enviados correos electrónicos periódicamente a través de nuestro sitio con ofertas especiales, nuevos productos y otra información publicitaria que consideremos relevante para usted o que pueda brindarle algún beneficio, estos correos electrónicos serán enviados a la dirección que usted proporcione y podrán ser cancelados en cualquier momento.\n\n</string>
+
+    <string-array name="list_hobbies">
+        <item>Escuchar música</item>
+        <item>Cocinar</item>
+        <item>video juegos</item>
+        <item>Estudiar</item>
+        <item>Dormir</item>
+        <item>Ir al Gimnasio</item>
+        <item>Bailar</item>
+        <item>Viajar</item>
+        <item>Comer</item>
+    </string-array>
+    <string name="agregar">Aceptar</string>
+    <string name="hobbies_requirido">No has elegido ningun Hobbie</string>
+
+    <string-array name="name_document">
+        <item>Cédula de ciudadanía</item>
+        <item>Tarjeta de identidad</item>
+        <item>Registro civil</item>
+    </string-array>
+    <string-array name="acronimo">
+        <item>C.C.</item>
+        <item>T.I.</item>
+        <item>R.C.</item>
+    </string-array>
+    <string name="limpia_formu">limpiar formulario</string>
+    <string name="mensage_button_reset">Estás seguro que quieres limpiar los datos del formulario</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="limpia_formu_2">Se limpia el Formulario</string>
+    <string name="campos_requeridos">Campos obligatorios</string>
+    <string name="futura_fecha">Fecha incorrecta</string>
+    <string name="futura_fecha_description">La fecha de nacimiento no puede ser del futuro</string>
+    <string name="diferente_passwords">Constraseñas incorrecta</string>
+    <string name="diferente_passwords_description">Las contraseñas no coinciden, las contraseñas deben ser iguales</string>
+    <string name="campos_requirido_description">Por favor completar los campos:</string>
+    <string name="titulo_terminoycondiciones">Términos y condiciones de uso</string>
+
+</resources>
